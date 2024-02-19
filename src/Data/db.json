@@ -1,0 +1,641 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "description": "About Book A Unit In The Axis 6 October",
+      "price": 362000000,
+      "category": "Apartments",
+      "thumbnail": "https://realestate.eg/ckfinder/userfiles/images/properties-for-sale-in-the-axis/properties%20for%20sale%20in%20the%20axis.jpg",
+      "rooms": "3",
+      "bathroom": "2",
+      "meter": "149M²",
+      "images": [
+        "https://realestate.eg/ckfinder/userfiles/images/properties-for-sale-in-the-axis/properties%20for%20sale%20in%20the%20axis.jpg",
+        "https://images.dubizzle.com.eg/thumbnails/83835728-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835727-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835726-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835724-800x600.webp"
+      ]
+    },
+    {
+      "id": "2",
+      "description": " Cairo With Spacial Prices and Spaces",
+      "price": 250000000,
+      "category": "Apartments",
+      "thumbnail": "https://realestate.eg/ckfinder/userfiles/images/Stone-Residence-Compound-3/%D8%A7%D9%84%D9%81%D9%84%D9%84-%D9%81%D9%8A-%D9%83%D9%85%D8%A8%D9%88%D9%86%D8%AF-%D8%B3%D8%AA%D9%88%D9%86-%D8%B1%D9%8A%D8%B2%D9%8A%D8%AF%D9%86%D8%B3.png",
+      "rooms": 3,
+      "bathroom": "1",
+      "meter": "177M²",
+      "images": [
+        "https://realestate.eg/ckfinder/userfiles/images/Stone-Residence-Compound-3/%D8%A7%D9%84%D9%81%D9%84%D9%84-%D9%81%D9%8A-%D9%83%D9%85%D8%A8%D9%88%D9%86%D8%AF-%D8%B3%D8%AA%D9%88%D9%86-%D8%B1%D9%8A%D8%B2%D9%8A%D8%AF%D9%86%D8%B3.png",
+        "https://images.dubizzle.com.eg/thumbnails/83835727-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835724-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835726-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835728-800x600.webp"
+      ]
+    },
+    {
+      "id": "3",
+      "description": "Chalets for sale in Laguna",
+      "price": 304400000,
+      "category": "Apartments",
+      "thumbnail": "https://realestate.eg/ckfinder/userfiles/images/properties-for-sale-in-laguna-bay/Villa%20in%20Laguna%20Bay%20by%20Capital%20Developments.jpg",
+      "rooms": "4",
+      "bathroom": "2",
+      "meter": "139m²",
+      "images": [
+        "https://realestate.eg/ckfinder/userfiles/images/properties-for-sale-in-laguna-bay/Villa%20in%20Laguna%20Bay%20by%20Capital%20Developments.jpg",
+        "https://images.dubizzle.com.eg/thumbnails/83835728-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835727-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835726-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835724-800x600.webp"
+      ]
+    },
+    {
+      "id": "4",
+      "description": "In Vye Compound With Payment Facilities",
+      "price": 615200000,
+      "category": "Apartments",
+      "thumbnail": "https://realestate.eg/ckfinder/userfiles/images/properties-for-sale-in-vye-sodic-compound/Apartments-For-Sale-In-VYE.jpg",
+      "rooms": "4",
+      "bathroom": "3",
+      "meter": "310m",
+      "images": [
+        "https://realestate.eg/ckfinder/userfiles/images/properties-for-sale-in-vye-sodic-compound/Apartments-For-Sale-In-VYE.jpg",
+        "https://images.dubizzle.com.eg/thumbnails/83835728-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835727-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835726-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835724-800x600.webp"
+      ]
+    },
+    {
+      "id": "5",
+      "description": "Book Your Unit Quickly in Mivida",
+      "price": 590000000,
+      "category": "Apartments",
+      "thumbnail": "https://realestate.eg/ckfinder/userfiles/images/properity-in-mivida/Mivida%20Buildings.jpg",
+      "rooms": "3",
+      "bathroom": "2",
+      "meter": "170m²",
+      "images": [
+        "https://realestate.eg/ckfinder/userfiles/images/properity-in-mivida/Mivida%20Buildings.jpg",
+        "https://images.dubizzle.com.eg/thumbnails/83835728-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835727-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835726-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835724-800x600.webp"
+      ]
+    },
+    {
+      "id": "6",
+      "description": "properties with 3 bedrooms for sale in Al Burouj",
+      "price": 390000000,
+      "category": "Apartments",
+      "thumbnail": "https://realestate.eg/ckfinder/userfiles/images/Apartment-for-sale-in-alburouj-compound/%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D8%A6%D8%B1%20%D9%81%D9%8A%20%D9%83%D9%85%D8%A8%D9%88%D9%86%D8%AF%20%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AC%20%D9%85%D8%AF%D9%8A%D9%86%D8%A9%20%D8%A7%D9%84%D8%B4%D8%B1%D9%88%D9%82.jpg",
+      "rooms": "4",
+      "bathroom": "1",
+      "meter": "170m²",
+      "images": [
+        "https://realestate.eg/ckfinder/userfiles/images/Apartment-for-sale-in-alburouj-compound/%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D8%A6%D8%B1%20%D9%81%D9%8A%20%D9%83%D9%85%D8%A8%D9%88%D9%86%D8%AF%20%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AC%20%D9%85%D8%AF%D9%8A%D9%86%D8%A9%20%D8%A7%D9%84%D8%B4%D8%B1%D9%88%D9%82.jpg",
+        "https://images.dubizzle.com.eg/thumbnails/83835728-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835727-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835726-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835724-800x600.webp"
+      ]
+    },
+    {
+      "id": "7",
+      "description": " buy Twin House in Vye Sodic Compound",
+      "price": 573700000,
+      "category": "Apartments",
+      "thumbnail": "https://realestate.eg/ckfinder/userfiles/images/properities-in-vye-sodic/Duplexe%20for%20sale%20in%20VYE%20Sodic.jpg",
+      "rooms": "5",
+      "bathroom": "3",
+      "meter": "​​229m²",
+      "images": [
+        "https://realestate.eg/ckfinder/userfiles/images/properities-in-vye-sodic/Duplexe%20for%20sale%20in%20VYE%20Sodic.jpg",
+        "https://images.dubizzle.com.eg/thumbnails/83835728-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835727-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835726-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835724-800x600.webp"
+      ]
+    },
+    {
+      "id": "8",
+      "description": " For Book in Degla Towers Nasr City",
+      "price": 135000000,
+      "category": "Apartments",
+      "thumbnail": "https://realestate.eg/ckfinder/userfiles/images/degla-towers-from-156-meter/%D8%A7%D9%84%D8%B4%D9%82%D9%82%20%D9%81%D9%8A%20%D8%AF%D8%AC%D9%84%D8%A9%20%D8%AA%D8%A7%D9%88%D8%B1%D8%B2.jpg",
+      "rooms": "3",
+      "bathroom": "1",
+      "meter": "156m²",
+      "images": [
+        "https://realestate.eg/ckfinder/userfiles/images/degla-towers-from-156-meter/%D8%A7%D9%84%D8%B4%D9%82%D9%82%20%D9%81%D9%8A%20%D8%AF%D8%AC%D9%84%D8%A9%20%D8%AA%D8%A7%D9%88%D8%B1%D8%B2.jpg",
+        "https://images.dubizzle.com.eg/thumbnails/83835728-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835727-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835726-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835724-800x600.webp"
+      ]
+    },
+    {
+      "id": "9",
+      "description": "Apartment For Sale in IL Mondo",
+      "price": 141900000,
+      "category": "Apartments",
+      "thumbnail": "https://realestate.eg/ckfinder/userfiles/images/property-for-sale-in-il-mondo/Apartments%20for%20sale%20in%20il%20mondo.jpg",
+      "rooms": "2",
+      "bathroom": "1",
+      "meter": "215m",
+      "images": [
+        "https://realestate.eg/ckfinder/userfiles/images/property-for-sale-in-il-mondo/Apartments%20for%20sale%20in%20il%20mondo.jpg",
+        "https://images.dubizzle.com.eg/thumbnails/83835728-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835727-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835726-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835724-800x600.webp"
+      ]
+    },
+    {
+      "id": "10",
+      "description": "Get Your Unit in Taj City New Cairo ",
+      "price": 287122200,
+      "category": "Apartments",
+      "thumbnail": "https://realestate.eg/ckfinder/userfiles/images/apartment-in-taj-city/Apartments%20for%20sale%20in%20Taj%20City.jpg",
+      "rooms": "3",
+      "bathroom": "1",
+      "meter": "165m²",
+      "images": [
+        "https://realestate.eg/ckfinder/userfiles/images/apartment-in-taj-city/Apartments%20for%20sale%20in%20Taj%20City.jpg",
+        "https://images.dubizzle.com.eg/thumbnails/83835728-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835727-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835726-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835724-800x600.webp"
+      ]
+    },
+    {
+      "id": "11",
+      "description": "New Administrative Capital with payment facilities",
+      "price": 168000000,
+      "category": "Apartments",
+      "thumbnail": "https://realestate.eg/ckfinder/userfiles/images/la-capital-compound/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D9%86%D9%8A%20%D9%81%D9%8A%20%D9%84%D8%A7%20%D9%83%D8%A7%D8%A8%D9%8A%D8%AA%D8%A7%D9%84%20%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%85%D9%87%20%D8%A7%D9%84%D8%A7%D8%AF%D8%A7%D8%B1%D9%8A%D9%87%20%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9(1).png",
+      "rooms": "3",
+      "bathroom": "1",
+      "meter": "70m",
+      "images": [
+        "https://realestate.eg/ckfinder/userfiles/images/la-capital-compound/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D9%86%D9%8A%20%D9%81%D9%8A%20%D9%84%D8%A7%20%D9%83%D8%A7%D8%A8%D9%8A%D8%AA%D8%A7%D9%84%20%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%85%D9%87%20%D8%A7%D9%84%D8%A7%D8%AF%D8%A7%D8%B1%D9%8A%D9%87%20%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9(1).png",
+        "https://images.dubizzle.com.eg/thumbnails/83835728-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835727-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835726-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835724-800x600.webp"
+      ]
+    },
+    {
+      "id": "12",
+      "description": "Properties for sale in Green Avenue",
+      "price": 198000000,
+      "category": "Apartments",
+      "thumbnail": "https://realestate.eg/ckfinder/userfiles/images/apartment-for-sale-in-Anakaji-compound/Anakaji%20New%20Capital.jpg",
+      "rooms": "2",
+      "bathroom": "2",
+      "meter": "180m²",
+      "images": [
+        "https://realestate.eg/ckfinder/userfiles/images/apartment-for-sale-in-Anakaji-compound/Anakaji%20New%20Capital.jpg",
+        "https://images.dubizzle.com.eg/thumbnails/83835728-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835727-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835726-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835724-800x600.webp"
+      ]
+    },
+    {
+      "id": "13",
+      "description": "Apartments for sale in Kenz",
+      "price": 250950000,
+      "category": "Apartments",
+      "thumbnail": "https://realestate.eg/ckfinder/userfiles/images/kenz-6-october-3/information-about-Kenz-Compound.png",
+      "rooms": "3",
+      "bathroom": "2",
+      "meter": "177M²",
+      "images": [
+        "https://realestate.eg/ckfinder/userfiles/images/kenz-6-october-3/information-about-Kenz-Compound.png",
+        "https://images.dubizzle.com.eg/thumbnails/83835728-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835727-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835726-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835724-800x600.webp"
+      ]
+    },
+    {
+      "id": "14",
+      "description": "A Hotel inside Park Point Mall New Capital",
+      "price": 425000000,
+      "category": "Apartments",
+      "thumbnail": "https://realestate.eg/storage/listings/SNB0jVU8liecXLWv.jpg",
+      "rooms": "3",
+      "bathroom": "1",
+      "meter": "85m",
+      "images": [
+        "https://realestate.eg/storage/listings/SNB0jVU8liecXLWv.jpg",
+        "https://images.dubizzle.com.eg/thumbnails/83835726-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835728-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835727-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835724-800x600.webp"
+      ]
+    },
+    {
+      "id": "15",
+      "description": "About The Cheapest for Sale in Menorca New Capital",
+      "price": 164000000,
+      "category": "Apartments",
+      "thumbnail": "https://realestate.eg/ckfinder/userfiles/images/properity-in-menorca/apartments%20for%20sale%20in%20Menorca.jpg",
+      "rooms": "4",
+      "bathroom": "1",
+      "meter": "180m²",
+      "images": [
+        "https://realestate.eg/ckfinder/userfiles/images/properity-in-menorca/apartments%20for%20sale%20in%20Menorca.jpg",
+        "https://images.dubizzle.com.eg/thumbnails/83835727-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835728-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835724-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835726-800x600.webp"
+      ]
+    },
+    {
+      "id": "16",
+      "description": "for sale in Porto New Cairo with distinctive location",
+      "price": 265000000,
+      "category": "Apartments",
+      "thumbnail": "https://realestate.eg/ckfinder/userfiles/images/Apartments-for-sale-in-Porto-New-Cairo-1/Apartmenst-for-sale-in-Porto-new-cairo-project.jpg",
+      "rooms": "3",
+      "bathroom": "2",
+      "meter": "210m²",
+      "images": [
+        "https://realestate.eg/ckfinder/userfiles/images/Apartments-for-sale-in-Porto-New-Cairo-1/Apartmenst-for-sale-in-Porto-new-cairo-project.jpg",
+        "https://images.dubizzle.com.eg/thumbnails/83835728-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835727-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835726-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835724-800x600.webp"
+      ]
+    },
+    {
+      "id": "17",
+      "description": "The Cheapest For Sale With Garden In Palm Parks",
+      "price": 250707400,
+      "category": "Apartments",
+      "thumbnail": "https://realestate.eg/ckfinder/userfiles/images/properties-for-sale-in-palm-parks/palm%20parks%20palm%20hills.jpg",
+      "rooms": "3",
+      "bathroom": "1",
+      "meter": "92M",
+      "images": [
+        "https://realestate.eg/ckfinder/userfiles/images/properties-for-sale-in-palm-parks/palm%20parks%20palm%20hills.jpg",
+        "https://images.dubizzle.com.eg/thumbnails/83835728-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835727-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835726-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835724-800x600.webp"
+      ]
+    },
+    {
+      "id": "18",
+      "description": "Own An Apartment In Fifth Square Al Marasem ",
+      "price": 549364000,
+      "category": "Apartments",
+      "thumbnail": "https://realestate.eg/ckfinder/userfiles/images/Properties-for-sale-in-fifth-square/property%20for%20sale%20in%20fifth%20square%20new%20cairo.jpg",
+      "rooms": "4",
+      "bathroom": "3",
+      "meter": "210m²",
+      "images": [
+        "https://realestate.eg/ckfinder/userfiles/images/Properties-for-sale-in-fifth-square/property%20for%20sale%20in%20fifth%20square%20new%20cairo.jpg",
+        "https://images.dubizzle.com.eg/thumbnails/83835728-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835727-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835726-800x600.webp",
+        "https://images.dubizzle.com.eg/thumbnails/83835724-800x600.webp"
+      ]
+    }
+  ],
+  "ProductVillas": [
+    {
+      "id": "1",
+      "description": "Get a Villa in Telal Sokhna Reasort 360m²",
+      "price": 650000000,
+      "category": "Villa",
+      "thumbnail": "https://realestate.eg/ckfinder/userfiles/images/property-for-sale-in-telal/Lakes%20in%20Telal%20Resort%20Ain%20Sokhna.jpg",
+      "rooms": "5",
+      "bathroom": "3",
+      "meter": "360m²"
+    },
+    {
+      "id": "2",
+      "description": "live in Marsa Baghush North Coast Resort",
+      "price": 2559600000,
+      "category": "Villa",
+      "thumbnail": "https://realestate.eg/storage/listings/Rd4jht3KN5kvd40A.jpg",
+      "rooms": "4",
+      "bathroom": "3",
+      "meter": "347m²"
+    },
+    {
+      "id": "3",
+      "description": "in Rivers El Shaikh Zayed Compound",
+      "price": 1192800000,
+      "category": "Villa",
+      "thumbnail": "https://realestate.eg/storage/listings/MUULRr5jnsbyhUdN.jpg",
+      "rooms": "4",
+      "bathroom": "2",
+      "meter": "284m²"
+    },
+    {
+      "id": "4",
+      "description": "In Katameya Dunes New Cairo",
+      "price": 1800000000,
+      "category": "Villa",
+      "thumbnail": "https://realestate.eg/ckfinder/userfiles/images/properties-for-sale-in-katameya-dunes/Katameya%20Dunes%20Project.jpg",
+      "rooms": "6",
+      "bathroom": "4",
+      "meter": "850m²"
+    },
+    {
+      "id": "5",
+      "description": "Own An Apartment Inside Stone Park Compound",
+      "price": 900000000,
+      "category": "Villa",
+      "thumbnail": "https://realestate.eg/ckfinder/userfiles/images/properties-for-sale-in-stone-park-compound/townhouses%20for%20sale%20in%20stone%20park.jpg",
+      "rooms": "5",
+      "bathroom": "3",
+      "meter": "360m²"
+    },
+    {
+      "id": "6",
+      "description": "Villa For Sale In Marina Heights 270m²",
+      "price": 300000000,
+      "category": "Villa",
+      "thumbnail": "https://realestate.eg/storage/listings/UsT0ofT5pXjDaYHY.jpg",
+      "rooms": "4",
+      "bathroom": "3",
+      "meter": "270m²"
+    },
+    {
+      "id": "8",
+      "description": " Location Mountain View Hyde Park New Cairo",
+      "price": 647534400,
+      "category": "Villa",
+      "thumbnail": "https://realestate.eg/ckfinder/userfiles/images/Mountain-View-Hyde-Park-compound/Apartments%20For%20sale%20in%20Mountain%20View%20Hyde%20Park%20compound.jpg",
+      "rooms": "5",
+      "bathroom": "3",
+      "meter": "450m²"
+    },
+    {
+      "id": "9",
+      "description": "Properties for Sale in The Marq",
+      "price": 890000000,
+      "category": "Villa",
+      "thumbnail": "https://realestate.eg/ckfinder/userfiles/images/properties-for-sale-in-the-marq/Buildings%20in%20The%20MarQ.jpg",
+      "rooms": "5",
+      "bathroom": "3",
+      "meter": "360m²"
+    },
+    {
+      "id": "10",
+      "description": "Properties For Sale in Mountain View ICity",
+      "price": 524964400,
+      "category": "Villa",
+      "thumbnail": "https://realestate.eg/ckfinder/userfiles/images/mountain-view-icity-2/Icity-new-Cairo-American-Style.jpg",
+      "rooms": "5",
+      "bathroom": "2",
+      "meter": "340m²"
+    },
+    {
+      "id": "11",
+      "description": " in new cairo at Emaar Mivida Compound",
+      "price": 1100000000,
+      "category": "Villa",
+      "thumbnail": "https://realestate.eg/ckfinder/userfiles/images/mivida-compound-8/mivida-compound.jpg",
+      "rooms": "6",
+      "bathroom": "3",
+      "meter": "407m²"
+    },
+    {
+      "id": "12",
+      "description": "Hurry Up To Buy An Villa in Mivida Egypt ",
+      "price": 1272900000,
+      "category": "Villa",
+      "thumbnail": "https://realestate.eg/ckfinder/userfiles/images/properties-for-sale-in-mivida/Andalusian-Town-House-in-Mivida.jpg",
+      "rooms": "5",
+      "bathroom": "3",
+      "meter": "347m²"
+    },
+    {
+      "id": "13",
+      "description": "Villa In Vidala Village With Facilities",
+      "price": 597600000,
+      "category": "Villa",
+      "thumbnail": "https://realestate.eg/storage/listings/BOz5VE5zTIEpOKwQ.jpg",
+      "rooms": "4",
+      "bathroom": "3",
+      "meter": "360m²"
+    },
+    {
+      "id": "14",
+      "description": "Details Of Selling A Villa In Korpenta Project",
+      "price": 425000000,
+      "category": "Villa",
+      "thumbnail": "https://realestate.eg/storage/listings/4sh3V22PSzV9vy6z.jpg",
+      "rooms": "5",
+      "bathroom": "3",
+      "meter": "372m²"
+    },
+    {
+      "id": "16",
+      "description": "Own a villa in IL Mondo New Capital at the cheapest price",
+      "price": 510000000,
+      "category": "Villa",
+      "thumbnail": "https://realestate.eg/storage/listings/AOQXahDxzrSgEVKw.jpg",
+      "rooms": "5",
+      "bathroom": "3",
+      "meter": "360m²"
+    },
+    {
+      "id": "17",
+      "description": "Buy a Villa in De Joya Compound",
+      "price": 520000000,
+      "category": "Villa",
+      "thumbnail": "https://realestate.eg/storage/listings/58rYUKZFEX8vSwB6.jpg",
+      "rooms": "4",
+      "bathroom": "3",
+      "meter": "325m²"
+    },
+    {
+      "id": "18",
+      "description": "Villas For Sale in SODIC EAST by SODIC",
+      "price": 729500000,
+      "category": "Villa",
+      "thumbnail": "https://realestate.eg/ckfinder/userfiles/images/apartment-for-sale-in-sodic-east/%D8%B3%D9%88%D8%AF%D9%8A%D9%83%20%D8%A7%D9%84%D9%8A%D8%B3%D8%AA%20%D9%88%20%D8%AC%D9%85%D8%A7%D9%84%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B7%D9%82%20%D8%A8%D9%87%D8%A7.png",
+      "rooms": "5",
+      "bathroom": "2",
+      "meter": "270m²"
+    }
+  ],
+  "users": [
+    {
+      "email": "noor222@gmail.com",
+      "name": "noor",
+      "role": "Member",
+      "password": "123456",
+      "id": "3"
+    },
+    {
+      "email": "ahmed12@gmail.com",
+      "name": "ahmed",
+      "role": "Member",
+      "password": "123456",
+      "id": "5"
+    },
+    {
+      "email": "menna@gmail.com",
+      "name": "menna ",
+      "role": "Member",
+      "password": "123456",
+      "id": "6"
+    },
+    {
+      "email": "test@gmail.com",
+      "name": "test",
+      "role": "Member",
+      "password": "123456",
+      "id": "7"
+    },
+    {
+      "email": "snasser636@gmail.com",
+      "name": "sama",
+      "role": "Admin",
+      "password": "123456",
+      "id": "8"
+    },
+    {
+      "email": "mena@gmail.com",
+      "name": "mena",
+      "role": "Member",
+      "password": "123456",
+      "id": "9"
+    },
+    {
+      "email": "test2@gmail.com",
+      "name": "test",
+      "role": "Member",
+      "password": "123456789",
+      "id": "10"
+    },
+    {
+      "email": "hager@gmail.com",
+      "name": "hager",
+      "role": "Member",
+      "password": "123456789",
+      "id": "11"
+    },
+    {
+      "id": "9b8f",
+      "email": "zeyad@gmail.com",
+      "name": "zeyad",
+      "role": "Member",
+      "password": "123456"
+    },
+    {
+      "id": "4b0b",
+      "email": "sama@gmail.com",
+      "name": "sama nasser",
+      "role": "Member",
+      "password": "123456789"
+    },
+    {
+      "id": "60a0",
+      "email": "sama3@gmail.com",
+      "name": "sama",
+      "role": "Member",
+      "password": "123456"
+    },
+    {
+      "id": "855a",
+      "email": "sama@gmail.com",
+      "name": "sama nasser",
+      "role": "Member",
+      "password": "123456"
+    }
+  ],
+  "checkout": [
+    {
+      "id": "8a1f"
+    },
+    {
+      "id": "cfa5",
+      "lastname": "sama",
+      "firstname": "first",
+      "city": "cairo",
+      "state": "cairo",
+      "email": "snasser636@gmail.com",
+      "phoneNumber": "111205356"
+    }
+  ],
+  "brokers": [
+    {
+      "id": "1",
+      "Name": "Mohamed Ali",
+      "Governorate": "Cairo",
+      "title": "Lorem ipsum dolor sit amet,ullamcorper nisl, sed venenatis...",
+      "Mobile": "01222786841",
+      "thumbnail": "https://demo05.houzez.co/wp-content/uploads/2016/02/agent-3.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/28/1.jpg",
+        "https://i.dummyjson.com/data/products/28/2.jpg",
+        "https://i.dummyjson.com/data/products/28/3.png",
+        "https://i.dummyjson.com/data/products/28/4.jpg",
+        "https://demo05.houzez.co/wp-content/uploads/2016/02/agent-3.jpg"
+      ]
+    },
+    {
+      "id": "2",
+      "Name": "Ahmed Omar",
+      "Governorate": "Qena",
+      "title": "Lorem ipsum dolor sit amet, ullamcorper nisl, sed venenatis...",
+      "Mobile": "01112786814",
+      "thumbnail": "https://demo05.houzez.co/wp-content/uploads/2016/02/agent-4.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/28/1.jpg",
+        "https://i.dummyjson.com/data/products/28/2.jpg",
+        "https://i.dummyjson.com/data/products/28/3.png",
+        "https://i.dummyjson.com/data/products/28/4.jpg",
+        "https://demo05.houzez.co/wp-content/uploads/2016/02/agent-4.jpg"
+      ]
+    },
+    {
+      "id": "3",
+      "Name": "Nour Ahmed",
+      "Governorate": "Giza",
+      "title": "Lorem ipsum dolor sit amet,ullamcorper nisl, sed venenatis...",
+      "Mobile": "01002454261",
+      "thumbnail": "https://demo05.houzez.co/wp-content/uploads/2016/02/agent-2-768x768.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/28/1.jpg",
+        "https://i.dummyjson.com/data/products/28/2.jpg",
+        "https://i.dummyjson.com/data/products/28/3.png",
+        "https://i.dummyjson.com/data/products/28/4.jpg",
+        "https://demo05.houzez.co/wp-content/uploads/2016/02/agent-2-768x768.jpg"
+      ]
+    },
+    {
+      "id": "4",
+      "Name": "Aya Yassin",
+      "Governorate": "Cairo",
+      "title": "Lorem ipsum dolor sit amet,ullamcorper nisl, sed venenatis...",
+      "Mobile": "01187515205",
+      "thumbnail": "https://demo05.houzez.co/wp-content/uploads/2016/02/agent-1-768x768.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/28/1.jpg",
+        "https://i.dummyjson.com/data/products/28/2.jpg",
+        "https://i.dummyjson.com/data/products/28/3.png",
+        "https://i.dummyjson.com/data/products/28/4.jpg",
+        "https://demo05.houzez.co/wp-content/uploads/2016/02/agent-1-768x768.jpg"
+      ]
+    }
+  ],
+  "Categories": [
+    {
+      "Apartmenst": "Apartmenst",
+      "Villa": "Villa",
+      "id": "db26"
+    }
+  ]
+}

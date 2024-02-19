@@ -1,0 +1,23 @@
+.Featured{
+    background-color: #f6f6f6;
+}
+.card2{
+    border: 0;
+    width: 350px;
+}
+.fea:hover{
+    opacity: 0.5;
+}
+.CARDS{
+    // width: 85%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    // gap: 10px;
+    // justify-content: space-between;
+}
+.fea{
+    width: 300px;
+    height: 60vh;
+    transition: 0.4s;
+}

@@ -1,0 +1,28 @@
+.color{
+    color: #77c720;
+}
+.footer{
+    background-color: black;
+    color: #fff;
+    padding: 3rem !important;
+    margin: auto;
+    left: 5rem;
+    a:hover{
+        color: #77c720 ;
+        
+        // text-decoration: underline;
+    }
+    a{
+        // padding: 5px;
+        transition: 0.3s;
+        color:#fff;
+        text-decoration: none;
+        font-size: 12px;
+    }
+}
+.paara{
+    color: rgb(70, 69, 69);
+}
+.fonts{
+    font-size: 13px;
+}
